@@ -1,5 +1,7 @@
 🍽️ Swiggy Sales Analytics Dashboard
+
 📌 Project Overview
+
 This project presents an interactive Swiggy Sales Analytics Dashboard built using data visualization and business intelligence techniques. The dashboard provides comprehensive insights into sales performance, customer ratings, order behavior, food preferences, and geographical trends across different states and cities.
 
 The goal of this project is to transform raw Swiggy order data into actionable business insights that help stakeholders understand customer purchasing patterns, sales performance, and regional demand.
