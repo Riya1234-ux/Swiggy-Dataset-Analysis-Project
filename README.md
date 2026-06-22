@@ -122,23 +122,6 @@ Support strategic planning and operational decisions.
 ✅ City-Level Revenue Insights
 ✅ Executive Summary View
 
-📷 Dashboard Preview
-Add screenshots of your dashboard here.
-
-![Dashboard Screenshot](images/dashboard.png)
-📁 Repository Structure
-Swiggy-Sales-Dashboard/
-│
-├── Data/
-│   └── Swiggy Raw Data.xlsx
-│
-├── Dashboard/
-│   └── Swiggy Dashboard.xlsx
-│
-├── Images/
-│   └── Dashboard Screenshot.png
-│
-└── README.md
 📌 Conclusion
 This Swiggy Sales Analytics Dashboard provides a centralized view of key business metrics and sales trends. By leveraging interactive visualizations and KPI tracking, the dashboard helps uncover valuable insights into customer behavior, sales performance, and regional demand patterns, enabling more informed business decisions.
 
